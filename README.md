@@ -3,6 +3,5 @@ This is my implementation of the K-means clustering algorithm used to cluster an
 
 
 ##**Dependencies:**
-I used:
 - *NumPy* for calculations, and 
 - *Pillow* for visualizing the clusters.
