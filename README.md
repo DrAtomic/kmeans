@@ -1,2 +1,8 @@
 # kmeans
-This is my k-means clustering project for a machine learning course I took.
+This is my implementation of the K-means clustering algorithm used to cluster and classify the OptDigits data originally from the [UCI ML repository] (https://archive.ics.uci.edu/ml/datasets/Optical+Recognition+of+Handwritten+Digits).
+
+
+##**Dependencies:**
+I used:
+-*NumPy* for calculations, and 
+-*Pillow* for visualizing the clusters.
